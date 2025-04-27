@@ -4,7 +4,8 @@ Bu projede; HTML5, CSS3 ve Bootstrap kullanılarak geliştirdiğim, modern ve du
 
 ## 📸 Proje Önizlemesi <br/><br/>
 
-![Uploading CryptoVerse-ezgif.com-video-to-gif-converter.gif…]()
+![CryptoVerse-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4faa75fd-a5e1-4136-9a18-50e575680b0d)
+
 
 
 
